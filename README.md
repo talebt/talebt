@@ -1,5 +1,5 @@
 - 👋 Hi, I’m  Thabet Taleb
-- 👀 I’m interested in Software Engineer
+- 👀 I’m interested in a Software Engineer
 
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
