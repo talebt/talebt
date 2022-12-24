@@ -14,4 +14,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=talebt&show_icons=true&locale=en" alt="talebt" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=talebt&" alt="talebt" /></p>
