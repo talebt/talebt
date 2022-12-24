@@ -1,4 +1,4 @@
-- 👋 Hi, I’m  Thabet Taleb
+- #👋 Hi, I’m  Thabet Taleb
 - 👀 I’m interested in a Software Engineer
 
 - 💞️ I’m looking to collaborate on ...
